@@ -1,6 +1,6 @@
 # rongluuu folio
 
-_Hello_ *world*! I am **ronglu**, __student__ in dunman high school
+_Hello_ *world*! I am **ronglu**, __student__ in [dunman high school](https://www.dhs.sg)
 
 my hobbies
 * eating
